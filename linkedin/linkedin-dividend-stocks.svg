@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#f6f4f0"/>
+<text x="140" y="130" font-family="DM Sans, Arial, sans-serif" font-weight="700" font-size="34" letter-spacing="1" fill="#111111">QUIETWEALTH<tspan font-family="Lora, Georgia, serif" font-style="italic" font-weight="500" fill="#83858c">.news</tspan></text>
+<text x="140" y="260" font-family="DM Sans, Arial, sans-serif" font-weight="700" font-size="26" letter-spacing="2" fill="#83858c">INVESTING</text>
+<text x="140" y="458" font-family="Lora, Georgia, serif" font-weight="600" font-size="76" fill="#111111">7 Dividend Stocks Worth</text>
+<text x="140" y="550" font-family="Lora, Georgia, serif" font-weight="600" font-size="76" fill="#111111">Putting on Your Watchlist</text>
+<line x1="140" y1="890" x2="1780" y2="890" stroke="#c9c5ba" stroke-width="2"/>
+<text x="140" y="950" font-family="Lora, Georgia, serif" font-style="italic" font-size="36" fill="#83858c">Wealth without the noise.</text>
+<text x="1780" y="950" text-anchor="end" font-family="DM Sans, Arial, sans-serif" font-size="30" fill="#83858c">quietwealth.news</text>
+</svg>

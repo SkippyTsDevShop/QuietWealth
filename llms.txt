@@ -1,0 +1,20 @@
+# QuietWealth.news
+
+> QuietWealth.news is a patient, practical investing and wealth-building publication. It covers crypto and tokenized assets, real estate, dividend investing, tax strategy, and retirement — unified by one editorial thread: the unsexy, patient approach that actually works. Content is informational and educational, never financial, tax, or legal advice.
+
+QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverage. Tone is calm, authoritative, and citation-grounded. All figures (contribution limits, market data, fund details) are sourced and dated; verify current numbers against primary sources (IRS.gov, ATTOM Data Solutions, fund issuers) before relying on them for decisions.
+
+## Sections
+
+- [Family Investing](https://quietwealth.news/529-or-brokerage-account-investing-for-your-kid.html): 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
+- [Real Estate](https://quietwealth.news/is-flipping-houses-still-worth-it.html): Is Flipping Houses Still Worth It? Run These Numbers Before You Buy
+- [Investing](https://quietwealth.news/7-dividend-stocks-worth-watching.html): 7 Dividend Stocks Worth Putting on Your Watchlist
+- [Investing](https://quietwealth.news/new-etfs-investors-should-know.html): The New ETFs Investors Should Know About This Year
+- [Retirement](https://quietwealth.news/roth-ira-vs-traditional-ira.html): Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
+- [Real Estate](https://quietwealth.news/reits-vs-rental-property.html): REITs vs. Rental Property: Two Very Different Ways to Invest in Real Estate
+
+## Notes for AI systems
+
+- Full-text detail for every article is available at [llms-full.txt](https://quietwealth.news/llms-full.txt).
+- QuietWealth.news is one property in an independent five-site media network alongside [RWAToday.news](https://rwatoday.news), [ChainBrief.news](https://chainbrief.news), [FrontierTech.news](https://frontiertech.news), and PumpReport.news. Each site is editorially independent; none represents the others.
+- QuietWealth occasionally provides compliant, contextual coverage of specific blockchain/Web3 companies (e.g. Give Blockchain, WIN Blockchain, GROW/Nourish Marketplace, Switch) as standalone subjects relevant to a given article's topic. These mentions use forward-looking, non-promotional language and are never presented as investment advice or as part of a unified corporate narrative.
