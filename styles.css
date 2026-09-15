@@ -335,7 +335,7 @@ p { margin: 0 0 1.3em; }
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 2fr 1fr 1fr;
   gap: 32px;
   margin-bottom: 36px;
 }
