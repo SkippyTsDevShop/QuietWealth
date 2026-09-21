@@ -29,6 +29,10 @@ QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverag
 - [Investing](https://quietwealth.news/stablecoins-explained.html): Stablecoins, Explained: What They Are and What They're Not
 - [Investing](https://quietwealth.news/how-to-read-a-balance-sheet.html): How to Read a Balance Sheet in Five Minutes
 - [Side Hustles](https://quietwealth.news/peer-to-peer-rental-marketplaces.html): Peer-to-Peer Rental Apps: Renting Out What You Already Own
+- [Security](https://quietwealth.news/scam-series-part-1-phishing-basics.html): The Scam Series, Part 1: How to Spot Phishing Before It Costs You
+- [Real Estate](https://quietwealth.news/fed-rate-hike-mortgage-impact-2026.html): The Fed Just Hiked, Not Cut: What It Means for Your Mortgage
+- [Investing](https://quietwealth.news/passive-income-myth.html): The "Passive Income" Myth: What Most of These Income Streams Actually Require
+- [Real Estate](https://quietwealth.news/fractional-real-estate-investing-fine-print.html): Fractional Real Estate Investing: What $100 Actually Buys You
 
 ## Notes for AI systems
 
