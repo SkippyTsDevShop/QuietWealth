@@ -198,6 +198,57 @@ p { margin: 0 0 1.3em; }
   margin-bottom: 0;
 }
 
+/* ---------- Start Here ---------- */
+
+.start-here { padding: 64px 0 72px; border-bottom: 1px solid var(--line); }
+
+.start-here .section-head { border-bottom: none; margin-bottom: 36px; padding-bottom: 0; }
+
+.start-here-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+
+.start-here-card {
+  background: var(--paper);
+  padding: 30px 28px;
+  display: block;
+}
+
+.start-here-card:hover { background: var(--paper-alt); }
+
+.start-here-card .path-num {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 14px;
+  color: var(--ink-faint);
+  display: block;
+  margin-bottom: 12px;
+}
+
+.start-here-card h3 { font-size: 18.5px; margin-bottom: 8px; }
+
+.start-here-card p { font-size: 14.5px; color: var(--ink-soft); margin-bottom: 0; }
+
+/* ---------- Category section ---------- */
+
+.category-section { padding: 60px 0 72px; border-bottom: 1px solid var(--line); }
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 32px 28px;
+}
+
+.category-card h3 { font-size: 16.5px; margin-bottom: 6px; }
+
+.category-card h3 a:hover { text-decoration: underline; text-underline-offset: 4px; }
+
+.category-card p { font-size: 14px; color: var(--ink-soft); margin-bottom: 0; }
+
 /* ---------- Pullquote ---------- */
 
 .pullquote {
@@ -409,6 +460,19 @@ p { margin: 0 0 1.3em; }
   padding-top: 20px;
 }
 
+.lead-image-section { padding: 0 0 4px; }
+
+.lead-image-section .container { max-width: var(--max); }
+
+.lead-image {
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.lead-image img { width: 100%; height: auto; display: block; }
+
 .article-body { padding: 48px 0 20px; }
 
 .article-body h2 {
@@ -540,4 +604,5 @@ p { margin: 0 0 1.3em; }
   .footer-grid { grid-template-columns: 1fr 1fr; gap: 24px; }
   .footer-bottom { flex-direction: column; }
   .article-meta { gap: 12px; }
+  .category-grid { grid-template-columns: 1fr 1fr; }
 }

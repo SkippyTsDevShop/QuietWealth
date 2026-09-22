@@ -4,35 +4,45 @@
 
 QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverage. Tone is calm, authoritative, and citation-grounded. All figures (contribution limits, market data, fund details) are sourced and dated; verify current numbers against primary sources (IRS.gov, ATTOM Data Solutions, fund issuers) before relying on them for decisions.
 
+## Category pages
+
+- [Investing](https://quietwealth.news/investing): Dividend stocks, index funds, blue chips, ETFs, bitcoin DCA, stablecoins, and tokenized treasuries.
+- [Real Estate](https://quietwealth.news/real-estate): REITs vs. rental property, house hacking, farmland, fractional platforms, and flipping math.
+- [Retirement](https://quietwealth.news/retirement): Roth vs. traditional IRAs, the backdoor Roth, old 401(k) options, and the HSA's triple tax advantage.
+- [Tax](https://quietwealth.news/tax): Donating appreciated assets and estate planning basics.
+- [Family Investing](https://quietwealth.news/family-investing): 529 plans vs. brokerage accounts for investing on a child's behalf.
+- [Side Hustles](https://quietwealth.news/side-hustles): What's actually working in side hustles, and peer-to-peer rental income.
+- [Financial Security](https://quietwealth.news/financial-security): The ongoing Scam Series, starting with phishing and smishing basics.
+
 ## Sections
 
-- [Family Investing](https://quietwealth.news/529-or-brokerage-account-investing-for-your-kid.html): 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
-- [Real Estate](https://quietwealth.news/is-flipping-houses-still-worth-it.html): Is Flipping Houses Still Worth It? Run These Numbers Before You Buy
-- [Investing](https://quietwealth.news/7-dividend-stocks-worth-watching.html): 7 Dividend Stocks Worth Putting on Your Watchlist
-- [Investing](https://quietwealth.news/new-etfs-investors-should-know.html): The New ETFs Investors Should Know About This Year
-- [Retirement](https://quietwealth.news/roth-ira-vs-traditional-ira.html): Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
-- [Real Estate](https://quietwealth.news/reits-vs-rental-property.html): REITs vs. Rental Property: Two Very Different Ways to Invest in Real Estate
-- [Profiles](https://quietwealth.news/wright-thurston-bitcoin-collectibles-mentor-podcast.html): Before Bitcoin Went Mainstream: Wright Thurston on Collectibles, Crypto and Finding Overlooked Value
-- [Side Hustles](https://quietwealth.news/side-hustles-2026-what-actually-works.html): Dropshipping Had Its Day. Here's What's Actually Working in Side Hustles Now
-- [Retirement](https://quietwealth.news/backdoor-roth-ira-explained.html): Backdoor Roth IRA, Explained Without the Jargon
-- [Retirement](https://quietwealth.news/hsa-most-underrated-retirement-account.html): The HSA: The Most Underrated Retirement Account Nobody Maxes Out
-- [Retirement](https://quietwealth.news/old-401k-options-when-you-change-jobs.html): What to Do With an Old 401(k) When You Change Jobs
-- [Tax](https://quietwealth.news/estate-planning-basics-everyone-skips.html): Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
-- [Tax](https://quietwealth.news/donating-appreciated-assets-tax-move.html): Donating Appreciated Assets: The Tax Move Most People Never Make
-- [Retirement](https://quietwealth.news/expat-retirement-destinations-2026.html): Where American Retirees Are Actually Moving in 2026: Portugal, Panama, and the New Expat Map
-- [Real Estate](https://quietwealth.news/house-hacking-owner-occupied-multifamily.html): House Hacking: How to Get Your Housing Costs to (Almost) Zero
-- [Real Estate](https://quietwealth.news/farmland-as-an-asset-class.html): Farmland as an Asset Class: What the Data Actually Shows
-- [Investing](https://quietwealth.news/index-funds-vs-active-management.html): Index vs. Active: What Decades of Data Actually Say
-- [Investing](https://quietwealth.news/boring-blue-chip-stocks-2026.html): The Case for Boring Blue Chips in 2026
-- [Investing](https://quietwealth.news/bitcoin-dollar-cost-averaging-explained.html): Bitcoin Dollar-Cost Averaging: The Boring Way to Own Crypto
-- [Investing](https://quietwealth.news/tokenized-treasuries-explained.html): Tokenized Treasuries: Government Debt Meets the Blockchain
-- [Investing](https://quietwealth.news/stablecoins-explained.html): Stablecoins, Explained: What They Are and What They're Not
-- [Investing](https://quietwealth.news/how-to-read-a-balance-sheet.html): How to Read a Balance Sheet in Five Minutes
-- [Side Hustles](https://quietwealth.news/peer-to-peer-rental-marketplaces.html): Peer-to-Peer Rental Apps: Renting Out What You Already Own
-- [Security](https://quietwealth.news/scam-series-part-1-phishing-basics.html): The Scam Series, Part 1: How to Spot Phishing Before It Costs You
-- [Real Estate](https://quietwealth.news/fed-rate-hike-mortgage-impact-2026.html): The Fed Just Hiked, Not Cut: What It Means for Your Mortgage
-- [Investing](https://quietwealth.news/passive-income-myth.html): The "Passive Income" Myth: What Most of These Income Streams Actually Require
-- [Real Estate](https://quietwealth.news/fractional-real-estate-investing-fine-print.html): Fractional Real Estate Investing: What $100 Actually Buys You
+- [Family Investing](https://quietwealth.news/529-or-brokerage-account-investing-for-your-kid): 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
+- [Real Estate](https://quietwealth.news/is-flipping-houses-still-worth-it): Is Flipping Houses Still Worth It? Run These Numbers Before You Buy
+- [Investing](https://quietwealth.news/7-dividend-stocks-worth-watching): 7 Dividend Stocks Worth Putting on Your Watchlist
+- [Investing](https://quietwealth.news/new-etfs-investors-should-know): The New ETFs Investors Should Know About This Year
+- [Retirement](https://quietwealth.news/roth-ira-vs-traditional-ira): Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
+- [Real Estate](https://quietwealth.news/reits-vs-rental-property): REITs vs. Rental Property: Two Very Different Ways to Invest in Real Estate
+- [Profiles](https://quietwealth.news/wright-thurston-bitcoin-collectibles-mentor-podcast): Before Bitcoin Went Mainstream: Wright Thurston on Collectibles, Crypto and Finding Overlooked Value
+- [Side Hustles](https://quietwealth.news/side-hustles-2026-what-actually-works): Dropshipping Had Its Day. Here's What's Actually Working in Side Hustles Now
+- [Retirement](https://quietwealth.news/backdoor-roth-ira-explained): Backdoor Roth IRA, Explained Without the Jargon
+- [Retirement](https://quietwealth.news/hsa-most-underrated-retirement-account): The HSA: The Most Underrated Retirement Account Nobody Maxes Out
+- [Retirement](https://quietwealth.news/old-401k-options-when-you-change-jobs): What to Do With an Old 401(k) When You Change Jobs
+- [Tax](https://quietwealth.news/estate-planning-basics-everyone-skips): Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
+- [Tax](https://quietwealth.news/donating-appreciated-assets-tax-move): Donating Appreciated Assets: The Tax Move Most People Never Make
+- [Retirement](https://quietwealth.news/expat-retirement-destinations-2026): Where American Retirees Are Actually Moving in 2026: Portugal, Panama, and the New Expat Map
+- [Real Estate](https://quietwealth.news/house-hacking-owner-occupied-multifamily): House Hacking: How to Get Your Housing Costs to (Almost) Zero
+- [Real Estate](https://quietwealth.news/farmland-as-an-asset-class): Farmland as an Asset Class: What the Data Actually Shows
+- [Investing](https://quietwealth.news/index-funds-vs-active-management): Index vs. Active: What Decades of Data Actually Say
+- [Investing](https://quietwealth.news/boring-blue-chip-stocks-2026): The Case for Boring Blue Chips in 2026
+- [Investing](https://quietwealth.news/bitcoin-dollar-cost-averaging-explained): Bitcoin Dollar-Cost Averaging: The Boring Way to Own Crypto
+- [Investing](https://quietwealth.news/tokenized-treasuries-explained): Tokenized Treasuries: Government Debt Meets the Blockchain
+- [Investing](https://quietwealth.news/stablecoins-explained): Stablecoins, Explained: What They Are and What They're Not
+- [Investing](https://quietwealth.news/how-to-read-a-balance-sheet): How to Read a Balance Sheet in Five Minutes
+- [Side Hustles](https://quietwealth.news/peer-to-peer-rental-marketplaces): Peer-to-Peer Rental Apps: Renting Out What You Already Own
+- [Security](https://quietwealth.news/scam-series-part-1-phishing-basics): The Scam Series, Part 1: How to Spot Phishing Before It Costs You
+- [Real Estate](https://quietwealth.news/fed-rate-hike-mortgage-impact-2026): The Fed Just Hiked, Not Cut: What It Means for Your Mortgage
+- [Investing](https://quietwealth.news/passive-income-myth): The "Passive Income" Myth: What Most of These Income Streams Actually Require
+- [Real Estate](https://quietwealth.news/fractional-real-estate-investing-fine-print): Fractional Real Estate Investing: What $100 Actually Buys You
 
 ## Notes for AI systems
 
