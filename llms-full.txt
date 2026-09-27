@@ -24,6 +24,60 @@
 
 ---
 
+# The 1099-K Threshold Is Back to $20,000. Here's What That Means for Your Side Hustle.
+
+URL: https://quietwealth.news/1099-k-threshold-2026-gig-sellers
+Published: September 27, 2026
+
+The IRS confirmed it in late 2025: the reporting threshold that was supposed to drop to $600 is gone, reverted back to $20,000 and 200 transactions. Fewer people selling on Etsy, driving for a rideshare app, or flipping thrift finds will get a form this year. Almost none of them are actually off the hook.
+
+If you sell anything through PayPal, Venmo, Etsy, eBay, Poshmark, Cash App, or a rideshare or delivery platform, you've probably heard some version of "the IRS is going to start tracking every $600 you make online." That rule technically existed on paper since 2021, got delayed three separate tax years in a row, and has now been formally reversed. The IRS confirmed in October 2025 that the reporting threshold for Form 1099-K reverts to its original level: $20,000 in payments and more than 200 transactions in a calendar year, undone by the One, Big, Beautiful Bill Act.
+
+## What actually changed, and what didn't
+
+The American Rescue Plan Act of 2021 lowered the 1099-K threshold from $20,000/200 transactions all the way down to $600 with no transaction minimum — a change aimed at capturing more gig and marketplace income that had historically gone unreported. The IRS delayed implementation repeatedly because of the sheer volume of forms it would have generated, much of it for casual sellers (someone unloading old furniture on Facebook Marketplace, for instance) who had no real tax liability to begin with. The 2025 tax legislation formally scrapped the $600 threshold and restored the original $20,000/200-transaction bar going forward.
+
+What this means mechanically: third-party payment processors like PayPal, Venmo, Stripe, and Square are only required to send you — and file with the IRS — a Form 1099-K if you cross both thresholds: more than $20,000 in gross payments and more than 200 individual transactions in the year. Cross only one, and no form is required.
+
+This is a paperwork threshold, not a tax-liability threshold. Whether or not a 1099-K shows up in your mailbox has no bearing on whether the income was taxable. It always was.
+
+## The mistake this creates
+
+The predictable risk here is that people read "no 1099-K" as "no reporting obligation" and stop tracking the income entirely. That's backwards. All income is reportable on your tax return regardless of whether a third party sent an information form about it — that's true of a $400 freelance invoice paid in cash, and it's equally true of $8,000 in resale income on a platform that never crosses the new threshold. The IRS's own guidance is explicit that this change affects information reporting, not the underlying tax code's definition of income.
+
+The one meaningful practical effect: fewer casual sellers will have a 1099-K to reconcile against their own records, which actually makes clean bookkeeping more important, not less — there's no third-party form to catch a math error or a forgotten sale if you didn't track it yourself.
+
+## What to do regardless of where the threshold sits
+
+- Keep your own running total. A simple spreadsheet logging gross payments received through each platform protects you whether or not a 1099-K ever arrives, and it's the only record you'll have if a platform's threshold math differs from your own.
+
+- Separate personal transactions from business ones on shared-payment apps. Splitting a dinner bill on Venmo isn't income; getting paid for freelance work through the same app is. Mixing the two in one account makes an eventual reconciliation far messier than it needs to be.
+
+- Set aside for taxes as you go if the side income is substantial. Nothing about this threshold change affects whether you may owe quarterly estimated taxes on self-employment income — that obligation is separate from 1099-K reporting entirely.
+
+- Don't assume next year's threshold stays put. This exact rule has already changed twice in five years. Building habits around good records, rather than around whatever the current dollar figure happens to be, is the version of this that doesn't need revisiting every tax season.
+
+## The honest takeaway
+
+This is a genuinely welcome simplification for casual resellers and occasional gig workers who were facing a wave of confusing paperwork for modest, often non-taxable activity. It is not a signal that side-hustle income is somehow off the IRS's radar — it's the opposite kind of story dressed up as good news: less paperwork, same rules.
+
+This article is for informational purposes only and does not constitute tax or legal advice. Tax rules governing reporting thresholds and income taxability can change; consult a licensed tax professional and verify current IRS guidance before making a filing decision.
+
+Sources:
+
+- IRS Newsroom, "IRS issues FAQs on Form 1099-K threshold under the One, Big, Beautiful Bill"
+
+- Beancount.io, "The 1099-K Whiplash Ends: Why the $20,000 and 200-Transaction Threshold Is Back for 2026"
+
+Go deeper:
+
+- Dropshipping Had Its Day. Here's What's Actually Working in Side Hustles Now
+
+- Peer-to-Peer Rental Apps: Renting Out What You Already Own
+
+
+---
+
 # 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
 
 URL: https://quietwealth.news/529-or-brokerage-account-investing-for-your-kid
@@ -368,6 +422,62 @@ Go deeper:
 
 ---
 
+# Custodial Roth IRA: How to Invest Your Kid's First Paycheck Tax-Free
+
+URL: https://quietwealth.news/custodial-roth-ira-kids-earned-income
+Published: September 27, 2026
+
+A teenager's summer job or babysitting gig doesn't just teach responsibility — it can unlock one of the longest tax-free compounding runways available to anyone. There's exactly one rule that determines whether this works at all, and it trips up more parents than any other part of the account.
+
+A custodial Roth IRA works exactly like a regular Roth IRA — contributions grow tax-free, and qualified withdrawals in retirement owe no tax at all — with one structural difference: an adult custodian manages the account until the child reaches the age of majority. The part that actually matters is the eligibility rule sitting underneath all of it.
+
+## The rule that makes or breaks this account
+
+A child must have earned income to contribute to a Roth IRA at any age — there's no minimum-age exception. Earned income means real compensation for real work: a formal part-time job, or legitimate self-employment income from something like babysitting, pet-sitting, or mowing neighborhood lawns, according to Fidelity's guide to custodial Roth IRAs. Allowance for chores doesn't count. Gift money from a grandparent doesn't count. The IRS is looking for a genuine income-for-labor relationship, and in the event of an audit, the burden of documenting that relationship falls on the family — a pay stub, a 1099, or at minimum a basic log of dates, hours, and payment for informal work.
+
+## 2026 contribution limits
+
+For 2026, the maximum a custodial Roth IRA can receive is $7,500, or the child's total earned income for the year — whichever is less. A parent or grandparent is allowed to contribute the money on the child's behalf (most kids aren't funneling their actual paycheck into a retirement account), but the contribution still can't exceed what the child actually earned. A 14-year-old who earned $2,400 mowing lawns over a summer can have up to $2,400 contributed to the account that year — not $7,500.
+
+The advantage here isn't the dollar amount. It's the clock. Money contributed at 14 that grows untouched for 50 years compounds through several full market cycles before it's ever needed — a timeline that isn't available to anyone starting a retirement account in their 20s or 30s, let alone later.
+
+## Who controls it, and when that changes
+
+The adult custodian retains full control over contributions, investment choices, and distributions while the account is in custodial status — account statements go to the custodian, not the child. When the child reaches the age of majority, typically 18 or 21 depending on the state and the account's terms, the assets transfer into a standard Roth IRA in the child's own name, and control passes to them entirely.
+
+## The flexible part people don't expect
+
+Roth IRA contributions — as opposed to the earnings those contributions later generate — can be withdrawn at any time, for any reason, without tax or penalty, because contributions were already made with after-tax dollars. Earnings are a different story: qualified, tax-free withdrawals of earnings require both reaching age 59½ and satisfying the account's five-year holding requirement. This makes a custodial Roth meaningfully more flexible than a 529 plan, which restricts penalty-free withdrawals to qualified education expenses.
+
+## The honest caveats
+
+- The paperwork trail matters. Informal cash income without any record of it is the single most common reason these contributions get challenged. Keep dated records of hours worked and payment received, even for babysitting or lawn care.
+
+- It only works at the scale of the child's actual income. This isn't a vehicle for parents to shelter large sums on a child's behalf — the contribution ceiling is the child's real earnings, full stop.
+
+- It's a long-term bet on the child not needing the money soon. While contributions are accessible penalty-free, the entire point of the account is multi-decade compounding — pulling it out early defeats the purpose, even if it's technically allowed.
+
+Most major brokerages — Fidelity, Schwab, and others — offer custodial Roth IRA products with no account minimums, making this more a documentation exercise than a logistical one once a child has genuine earned income to work with.
+
+This article is for informational purposes only and does not constitute tax or financial advice. Contribution limits, earned-income documentation requirements, and account rules can change; consult a licensed financial or tax advisor before opening an account.
+
+Sources:
+
+- Fidelity, "Turbocharge your child's retirement" (custodial Roth IRA guide)
+
+- Charles Schwab, "What is a Custodial Roth IRA and How Does It Work?"
+
+Go deeper:
+
+- UTMA and UGMA Accounts, Explained: The Custodial Account Most Parents Get Wrong
+
+- 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
+
+- Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
+
+
+---
+
 # Donating Appreciated Assets: The Tax Move Most People Never Make
 
 URL: https://quietwealth.news/donating-appreciated-assets-tax-move
@@ -470,6 +580,8 @@ The starting point is the same either way: naming a guardian if you have minor c
 This article is for informational purposes only and does not constitute legal advice. Estate planning laws vary significantly by state; consult a licensed estate planning attorney to prepare documents valid in your jurisdiction.
 
 Go deeper:
+
+- Trusts 101: Revocable vs. Irrevocable, and When a Will Isn't Enough
 
 - Donating Appreciated Assets: The Tax Move Most People Never Make
 
@@ -582,6 +694,64 @@ Go deeper:
 - The HSA: The Most Underrated Retirement Account Nobody Maxes Out
 
 - Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
+
+
+---
+
+# Family Office 101: What They Are, and Who Actually Needs One
+
+URL: https://quietwealth.news/family-office-101-who-needs-one
+Published: September 27, 2026
+
+"Family office" gets thrown around loosely enough that it's worth being precise: this is a real structure, with a real cost and a real net worth threshold attached, not a synonym for "hires a financial advisor." Here's what one actually does, and the honest answer on who this is for.
+
+A family office is a dedicated organization that manages the investments, taxes, estate planning, and often the personal affairs of a single ultra-wealthy family, or, in the multi-family version, a small group of them sharing the same infrastructure. The model traces back to Rockefeller-style dynastic wealth management from over a century ago, but according to recent Forbes reporting, it has since evolved into something considerably more institutional: over 8,000 single-family offices now operate worldwide, up a third since 2019 and projected to exceed 10,000 by 2030, collectively overseeing roughly $5.5 trillion in assets — a figure expected to reach $9 trillion by the end of the decade.
+
+## What a family office actually does
+
+Beyond investment management, a family office typically coordinates a whole slate of otherwise-separate services under one roof, according to Creative Planning's guide to single-family offices: tax optimization, estate planning and multi-generational wealth transfer, philanthropy and charitable-giving strategy, family governance and financial education for heirs, insurance and risk management, and often genuinely personal affairs — property management, travel logistics, and the kind of administrative load that comes with significant wealth. The point isn't any one of these services in isolation; it's having them all coordinated by people who already know the family's full financial picture.
+
+## Single-family vs. multi-family: the threshold that actually matters
+
+A single-family office (SFO) is built for exactly one family, and Creative Planning's guidance puts the practical net worth threshold at $100 million, with $250 million or more often preferred for genuine cost-effectiveness. Running one starts at roughly $1 million a year and can reach $10 million or more for larger operations — typically 30 to 120 basis points of assets under management, covering staff, compliance, technology, and facilities.
+
+A multi-family office (MFO) pools that same infrastructure across several unrelated wealthy families, which meaningfully lowers the entry point. Families typically start considering an MFO around $25 million to $50 million in investable assets, according to guidance from AssetVantage, with fees usually structured as 0.25% to 1.00% of assets, a flat annual retainer, or some hybrid of the two.
+
+Scale is the whole argument for a multi-family office. Average annual operating costs for smaller single-family offices (under $500 million in assets) run around $1.8 million a year, compared with $8.7 million for offices managing over $1 billion. Pooling that fixed overhead across several families is what makes the "family office experience" available well below the $100 million single-family threshold.
+
+## How family offices are reshaping investing more broadly
+
+Roughly 70% of family offices now participate directly in private acquisitions rather than routing that capital through traditional private equity funds and their standard "2 and 20" fee structure — a meaningful shift in how large private capital gets deployed. The outsourced chief investment officer (OCIO) market family offices increasingly rely on had reached $3.3 trillion by the end of 2024. What consistently sets this capital apart from institutional money, per Forbes's reporting, is patience: family offices aren't managing toward a quarterly reporting cycle, which makes them attractive, flexible, long-term partners for entrepreneurs and sponsors in a way a typical institutional allocator often isn't.
+
+## Who actually needs one
+
+- $100 million-plus in net worth, with complex holdings. A single-family office is a genuine option here, and the coordination benefit across investing, tax, and estate planning tends to justify the cost.
+
+- $25 million to $100 million in investable assets. A multi-family office gets you most of the coordinated-service model without the fixed overhead of running a dedicated operation.
+
+- Below roughly $25 million. The honest answer, for the overwhelming majority of readers here, is that a family office in either form isn't a fit — a fee-only fiduciary financial advisor, a solid estate attorney, and a well-built portfolio of low-cost index funds accomplish most of the same underlying goals without the fixed cost structure a family office requires to make sense.
+
+## The honest takeaway
+
+Almost nobody reading this needs a family office, and that's fine — the value in understanding how they work isn't aspirational. The underlying principles they're built around — coordinating investment, tax, and estate decisions instead of treating them as separate problems, taking a genuinely long time horizon, and staying deliberate about what you're paying for advice — scale down perfectly well to a portfolio worth a fraction of the family-office threshold. That's the version of this article actually worth acting on.
+
+This article is for informational purposes only and does not constitute financial or investment advice. Family office structures, minimums, and fee models vary by provider; consult a licensed financial advisor about what's appropriate for your situation.
+
+Sources:
+
+- Forbes, "How The Family Office Is Quietly Reshaping Global Investing"
+
+- Creative Planning, "What Is a Single-Family Office? Structure, Costs and Setup Guide"
+
+- AssetVantage, "Before You Approach a Family Office, Score These 4 Factors"
+
+Go deeper:
+
+- Trusts 101: Revocable vs. Irrevocable, and When a Will Isn't Enough
+
+- Custodial Roth IRA: How to Invest Your Kid's First Paycheck Tax-Free
+
+- 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
 
 
 ---
@@ -1519,15 +1689,83 @@ If a message or call claims to be from an institution you have an existing relat
 
 - Tell someone. A scammer's biggest advantage is isolation — a second opinion from a family member or friend, even after the fact, helps catch what a rushed, alone decision missed.
 
-Next in this series: the investment and crypto-specific scams built to look like the legitimate opportunities we cover on this site every week — and how to tell the difference before money changes hands.
+Next in this series: the investment and crypto-specific scams built to look like the legitimate opportunities we cover on this site every week — and how to tell the difference before money changes hands. Update: Part 2, on AI voice cloning and the family-emergency scam, is live now.
 
 This article is for informational purposes only and does not constitute legal or financial advice. If you believe you have been the victim of fraud, contact your financial institution and local law enforcement, and report the incident to the FTC at ReportFraud.ftc.gov.
 
 Go deeper:
 
+- The Scam Series, Part 2: When the Voice on the Phone Is a Perfect Fake
+
 - Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
 
 - What to Do With an Old 401(k) When You Change Jobs
+
+
+---
+
+# The Scam Series, Part 2: When the Voice on the Phone Is a Perfect Fake
+
+URL: https://quietwealth.news/scam-series-part-2-ai-voice-cloning
+Published: September 27, 2026
+
+Part 1 of this series promised we'd get to the impersonation schemes built around a grandchild in trouble. Since then, the trick has gotten a serious upgrade: the voice on the other end can now be a synthetic, near-perfect clone of someone you actually love — built from a few seconds of audio scraped off social media.
+
+Internet crime losses reported to the FBI's Internet Crime Complaint Center hit $20.9 billion in 2025, up 26% from the year before. Adults age 60 and older absorbed the largest share by far — $7.7 billion, roughly a 60% jump from 2024 — and within that total sits a newer, faster-growing category: $893 million in losses tied specifically to AI-generated scams, including voice cloning used for "family in distress" calls and deepfakes used in investment schemes. Adults 60 and older accounted for $352 million of that AI-related total, according to the FBI's 2025 Internet Crime Report, as summarized by AARP.
+
+This is Part 2 of our ongoing scam series, and it's the installment Part 1 promised: the impersonation scheme built around a grandchild — or a spouse, or a parent — supposedly in trouble. What's changed since the classic version of this scam is the voice itself. It no longer has to sound roughly right. It can sound exactly right.
+
+## How a cloned voice actually gets made
+
+Modern voice-cloning tools need only a short sample of someone's speech — a few seconds pulled from a public video, a voicemail greeting, or a social media clip is often enough — to generate synthetic audio that mimics their tone, cadence, and inflection. The FTC has warned that this technology is now accessible enough that the barrier to running this scam convincingly has collapsed. As the agency puts it plainly: "If a call sounds like your boss (asking for bank account numbers) or your family member (begging for help in an emergency), you're more likely to act."
+
+That's the entire mechanism. The scam doesn't need you to be gullible — it needs you to be a normal person reacting to what sounds, unmistakably, like a loved one in genuine distress.
+
+## What the numbers say about how common this already is
+
+A McAfee survey cited in a National Council on Aging guide found that one in four people had either encountered an AI voice scam themselves or knew someone who had, and 10% of those surveyed said they'd personally received a message from an AI-cloned voice. Among that group, 77% reported financial losses ranging from $500 to $15,000. This isn't a hypothetical, future-facing risk — it's already running at a scale that shows up in national survey data.
+
+One documented case involved a woman in Brooklyn who received calls that sounded exactly like her in-laws, followed by demands for ransom money — the classic "grandparent scam" structure, just with real cloned audio standing in for the vague, static-y phone connection scammers used to rely on. The "arrested and need bail money" version of this call, once a red flag in itself because the voice never quite sounded right, no longer has that tell.
+
+The scam hasn't gotten smarter. The voice has. Every red flag this series has already covered — urgency, secrecy, an unusual payment method — still applies here exactly as written. The only thing AI voice cloning removes is your ability to use "that didn't sound like them" as a check.
+
+## The verification habit that still works
+
+- Hang up and call back on a number you already have. The FTC's core recommendation hasn't changed: call the person using a phone number you already had for them, not one provided by the caller, before acting on anything.
+
+- Reach a different family member or friend if you can't reach the person directly. A second point of contact often confirms in seconds that the person supposedly in trouble is fine and has no idea a call was made.
+
+- Set up a family code word, in advance, for real emergencies. A short phrase only your family would know — agreed on ahead of time, not invented in the moment — defeats a cloned voice instantly, because the scammer has no way to guess it.
+
+- Don't act inside the emotional window the call creates. The fear response is the entire point. Hanging up and taking two minutes to verify costs you nothing if the emergency is real.
+
+## If it happens to you or someone you love
+
+- Don't send money or gift cards based on the call alone, no matter how real the voice sounded or how urgent the request felt.
+
+- Verify independently first, using contact information you already had — never a number the caller gave you.
+
+- Report it at ReportFraud.ftc.gov, which helps regulators track the scale and tactics of this specific scam type.
+
+- Talk about it with your family, especially older relatives — agreeing on a code word before an emergency call ever comes in is the single highest-leverage five-minute conversation a family can have on this topic.
+
+Next in this series: the investment and crypto-specific scams built to look like the legitimate opportunities we cover on this site every week — and how to tell the difference before money changes hands.
+
+This article is for informational purposes only and does not constitute legal or financial advice. If you believe you or a family member has been targeted by a scam, contact your financial institution and local law enforcement, and report the incident to the FTC at ReportFraud.ftc.gov.
+
+Sources:
+
+- AARP, summary of the FBI's 2025 Internet Crime Report
+
+- FTC Consumer Alert, "Fighting back against harmful voice cloning"
+
+- National Council on Aging, "What Are AI Scams? A Guide for Older Adults"
+
+Go deeper:
+
+- The Scam Series, Part 1: How to Spot Phishing Before It Costs You
+
+- Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
 
 
 ---
@@ -1718,6 +1956,64 @@ Go deeper:
 
 ---
 
+# Tax-Loss Harvesting: The Year-End Move Worth Understanding Before December 31
+
+URL: https://quietwealth.news/tax-loss-harvesting-year-end-2026
+Published: September 27, 2026
+
+Selling a losing position to offset a gain sounds like the simplest tax move in investing. It mostly is — except for a 30-day rule that trips up otherwise careful people every single December, often without them realizing it happened.
+
+Tax-loss harvesting is exactly what it sounds like: selling an investment that's worth less than you paid for it, realizing that loss on paper, and using it to offset gains elsewhere in your portfolio — or, if losses exceed gains for the year, up to $3,000 of ordinary income ($1,500 if married filing separately), according to the IRS's own guidance on capital losses. Anything beyond that $3,000 annual cap doesn't disappear — it carries forward to future tax years with no expiration date.
+
+The mechanics are simple. The rule that turns this into something people actually get wrong is not.
+
+## The wash-sale rule, in plain terms
+
+The wash-sale rule disallows the tax loss if you buy a "substantially identical" security within 30 days before or after the sale — a 61-day window total, since the 30-day count runs in both directions from the sale date. Sell a stock at a loss on December 15 and buy it back on January 10, and the loss is disallowed for tax purposes even though a full month has passed since the sale.
+
+The rule applies clearly to individual stocks — sell Apple at a loss and buy it back inside the window, and the loss is wiped out. It gets more flexible with ETFs: selling one S&P 500 index ETF and immediately buying a different issuer's comparable fund generally avoids a wash sale despite the two funds holding nearly identical portfolios, because they aren't the same security. Notably, as of 2026 the wash-sale rule does not technically apply to cryptocurrency under current IRS interpretation — though pending legislation could extend it to digital assets, so this is a gap that may not stay open.
+
+A tax rule not applying to crypto today is a fact about today's tax code, not a permanent feature of the asset class. Building a strategy around a loophole that regulators are actively discussing closing is a bet on timing, not a plan.
+
+## Where careful investors still get caught
+
+- Automatic dividend reinvestment. If a fund you sold at a loss pays a dividend during the 61-day window and that dividend automatically reinvests into more shares of the same fund, you've triggered a wash sale without placing a single manual trade.
+
+- Buying the same security in a different account. Selling a position at a loss in a taxable brokerage account while a retirement account — yours or a spouse's — buys the identical security during the window still counts. The IRS looks across all of an investor's accounts, including a spouse's, not just the one where the sale happened.
+
+- Year-end timing that spills into January. A loss harvested in mid-December creates a restricted window that runs into the following January — exactly when many automatic rebalancing programs execute their first trades of the new year.
+
+## The 2026 brackets this is actually optimizing around
+
+Long-term capital gains — on assets held more than a year — are taxed at 0%, 15%, or 20% depending on total taxable income. For the 2026 tax year, the brackets break down as follows:
+
+- Single filers: 0% up to $49,450; 15% from $49,451 to $545,500; 20% above $545,500.
+
+- Married filing jointly: 0% up to $98,900; 15% from $98,901 to $613,700; 20% above $613,700.
+
+Harvesting a loss that offsets a gain which would otherwise have been taxed at 15% or 20% is a meaningfully different outcome than harvesting a loss purely to capture the $3,000 ordinary-income offset — both are legitimate, but the size of the benefit depends entirely on what the loss is actually being matched against.
+
+## The honest limits of this strategy
+
+Tax-loss harvesting is a real, IRS-sanctioned tool — not a gimmick. But it's optimizing a tax bill, not an investment thesis. Selling a fundamentally sound holding purely to harvest a loss, then scrambling to find a "similar enough but not identical" replacement, adds trading costs and portfolio drift in service of a benefit that's capped at $3,000 a year against ordinary income. For most patient, long-term portfolios, this is a worthwhile once- or twice-a-year housekeeping exercise — not a strategy to build a portfolio around.
+
+This article is for informational purposes only and does not constitute tax or investment advice. Tax rules are complex and change frequently; consult a licensed tax professional about your specific situation before harvesting losses.
+
+Sources:
+
+- IRS, Topic No. 409: Capital Gains and Losses
+
+- Kiplinger, "IRS Updates Capital Gains Tax Thresholds for 2026"
+
+Go deeper:
+
+- Donating Appreciated Assets: The Tax Move Most People Never Make
+
+- Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
+
+
+---
+
 # Tokenized Treasuries: Government Debt Meets the Blockchain
 
 URL: https://quietwealth.news/tokenized-treasuries-explained
@@ -1756,6 +2052,116 @@ Go deeper:
 - Stablecoins, Explained: What They Are and What They're Not
 
 - Bitcoin Dollar-Cost Averaging: The Boring Way to Own Crypto
+
+
+---
+
+# Trusts 101: Revocable vs. Irrevocable, and When a Will Isn't Enough
+
+URL: https://quietwealth.news/trusts-101-revocable-vs-irrevocable
+Published: September 27, 2026
+
+"Do I need a trust?" is usually the next question after someone finally writes a will. The honest answer for most families has less to do with avoiding estate taxes than people assume — and a trust that isn't set up correctly can end up doing nothing at all.
+
+A trust is a legal arrangement where you transfer ownership of assets to a trustee, who manages them according to your instructions for the benefit of the people you name. That's the whole concept. The part that actually matters — and the part most people never get a straight answer on — is which of the two basic types fits their situation, and why.
+
+## Revocable trusts: full control, limited protection
+
+A revocable trust, also called a living trust, lets you keep complete control of the assets inside it during your lifetime. According to Fidelity's guide to trust planning, the grantor "always has the option to change or even terminate the arrangement at any time." You can add assets, remove them, name yourself as trustee, and unwind the whole thing if your circumstances change.
+
+The tradeoff: because you retain that much control, the assets are still considered part of your taxable estate, and any income the trust generates typically shows up on your personal tax return. A revocable trust also offers no protection from creditors or lawsuits — the assets are legally still yours in every way that matters except one: property held in a properly funded living trust passes to your beneficiaries without going through probate.
+
+## Irrevocable trusts: permanence in exchange for protection
+
+An irrevocable trust asks for something a revocable trust doesn't: you permanently give up control of whatever you put into it. Fidelity's guidance is direct on this point — the grantor "permanently relinquishes control of the assets placed in the trust," and changing the arrangement afterward generally requires the consent of the beneficiaries. In exchange, assets inside an irrevocable trust are removed from your taxable estate and can gain real protection from creditors, which a revocable trust simply cannot offer.
+
+For 2026, the federal estate tax exemption is $15 million per individual, $30 million per married couple — permanently, under the 2025 federal tax law that locked this threshold in. That's up from $13.99 million in 2025. The overwhelming majority of American families will never owe a dollar of federal estate tax, which means the estate-tax-avoidance case for an irrevocable trust applies to a much smaller slice of readers than trust marketing tends to suggest.
+
+## So why do most people actually want a trust?
+
+If federal estate tax isn't the driving concern for most families, the real reasons a trust is still worth having are more mundane and, for most people, more valuable: avoiding probate — the court-supervised process of settling an estate, which can take months and comes with its own fees; keeping your financial affairs private, since probate is a public court record and a properly funded trust generally isn't; and planning for incapacity, since a successor trustee can step in and manage your assets immediately if you become unable to, without a court needing to appoint a guardian first.
+
+## The mistake that makes a trust worthless
+
+A trust document by itself does nothing. Assets have to actually be retitled into the trust's name — a house deed re-recorded, brokerage accounts re-registered, and so on — a step known as "funding" the trust. Skip it, and the asset still goes through probate exactly as if the trust never existed, regardless of what the trust document says. This is, by a wide margin, the most common way a well-intentioned estate plan fails to do the one thing it was built for.
+
+## A trust doesn't replace a will
+
+Even with a fully funded trust, most estate plans still include a "pour-over" will — a backup document that catches anything accidentally left outside the trust and directs it in. A trust and a will do different jobs; having one doesn't make the other unnecessary.
+
+## An honest decision guide
+
+- You want to avoid probate, keep things private, or plan for possible incapacity. A revocable living trust, properly funded, is generally the right tool — and it's the version most middle- and upper-middle-class families actually need.
+
+- You have a large enough estate that federal or state estate tax is a real concern, or you need genuine asset protection from creditors or a lawsuit. An irrevocable trust, built with an estate attorney, is worth the permanence it demands.
+
+- Your estate is straightforward, your beneficiaries are clear, and probate costs in your state are modest. A well-drafted will and up-to-date beneficiary designations may genuinely be enough — a trust isn't a requirement for every estate, whatever the marketing around them implies.
+
+This article is for informational purposes only and does not constitute legal or tax advice. Trust and estate law varies significantly by state; consult a licensed estate attorney before setting up or funding a trust.
+
+Sources:
+
+- Fidelity, "Revocable and irrevocable trusts"
+
+- Nolo, "Revocable Living Trust: How It Works and Avoids Probate"
+
+- Kiplinger, "The Estate Tax Exemption Amount for 2026"
+
+Go deeper:
+
+- Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
+
+- Family Office 101: What They Are, and Who Actually Needs One
+
+- Donating Appreciated Assets: The Tax Move Most People Never Make
+
+
+---
+
+# UTMA and UGMA Accounts, Explained: The Custodial Account Most Parents Get Wrong
+
+URL: https://quietwealth.news/utma-ugma-custodial-accounts-explained
+Published: September 27, 2026
+
+No contribution limits, no restrictions on how the money gets spent, and one detail that catches families off guard every time: at 18 or 21, every dollar in the account becomes your child's to do with entirely as they please.
+
+UGMA (Uniform Gifts to Minors Act) and UTMA (Uniform Transfers to Minors Act) accounts let an adult transfer assets to a child without setting up a formal trust — a parent or relative manages the account in the child's name until the child reaches adulthood, at which point control transfers entirely. According to Savingforcollege.com's guide to custodial accounts, the practical difference between the two is what they can hold: a UGMA account is limited to financial assets — cash, stocks, bonds, mutual funds — while a UTMA account can also hold real estate, intellectual property, and other non-financial assets, which is why most states now default to the broader UTMA version.
+
+## The kiddie tax bite
+
+Contributions go in with after-tax dollars, and the account can accept gifts up to $19,000 per individual (or $38,000 from a married couple) in 2026 before triggering gift-tax reporting requirements. Where it gets more complicated is what happens to the account's earnings, which fall under so-called "kiddie tax" rules: for 2026, the first $1,350 of a child's unearned income is tax-free, the next $1,350 is taxed at the child's own (typically low) rate, and anything above $2,700 is taxed at the parent's marginal rate — which can be substantially higher than either of the first two tiers.
+
+## The handoff nobody quite prepares for
+
+Custodial control ends when the child reaches the age of majority — most states default to 21, though California, D.C., Kentucky, Maine, Maryland, Michigan, Nevada, Oklahoma, South Dakota, and the U.S. Virgin Islands transfer control at 18. Some states let the custodian specify an age anywhere from 18 to 25 when the account is opened, and Wyoming permits extending control all the way to age 30. Whatever age applies, the transfer is total: the money becomes the child's outright, with no restriction on how it's spent and no mechanism for a parent to object once that date arrives.
+
+A 529 plan restricts withdrawals to education expenses but keeps the account owner (usually the parent) in control indefinitely. A UTMA/UGMA account restricts nothing about how the money is used — but hands over full, permanent control the moment the child legally becomes an adult. These are two almost opposite sets of tradeoffs, and a lot of families pick one without fully registering which set they signed up for.
+
+## The financial-aid problem nobody mentions upfront
+
+Because a UTMA/UGMA account is legally the child's asset, it's reported as such on the FAFSA — and student assets reduce financial aid eligibility by roughly 20% of the account's value each year. A 529 plan, by contrast, is typically reported as a parental asset, which reduces aid eligibility by only about 5.64% of its value. For a family counting on need-based financial aid, a large UTMA/UGMA balance can meaningfully outweigh its flexibility advantage.
+
+## Where this account actually fits
+
+- You want to gift assets with zero restriction on future use. Unlike a 529, there's no clawback or penalty if the money ends up funding something other than college.
+
+- You're comfortable handing over full control at 18 or 21. If the goal is specifically to fund education, retain more parental control, or minimize a financial-aid hit, a 529 plan is usually the better-fitting tool for that specific job.
+
+- The amounts involved are modest enough that the kiddie tax and aid-eligibility tradeoffs don't dominate the decision. For smaller gifts from grandparents or relatives, the simplicity of a UTMA/UGMA account often outweighs these considerations entirely.
+
+None of this makes a UTMA/UGMA account a mistake — it's simply a different tool built for a different job than a 529 or a custodial Roth IRA. The families who end up unhappy with theirs are usually the ones who opened it assuming it worked like one of those two, and found out the difference at 18.
+
+This article is for informational purposes only and does not constitute tax or financial advice. Gift-tax limits, kiddie-tax thresholds, and state age-of-majority rules can change; consult a licensed financial or tax advisor and verify current figures at irs.gov before opening an account.
+
+Sources:
+
+- Savingforcollege.com, "What is a UGMA and UTMA Account?"
+
+Go deeper:
+
+- Custodial Roth IRA: How to Invest Your Kid's First Paycheck Tax-Free
+
+- 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
 
 
 ---
