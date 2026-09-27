@@ -25,6 +25,7 @@
 <meta name="twitter:image" content="https://quietwealth.news/images/og-home.png">
 
 <link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="alternate" type="application/rss+xml" title="QuietWealth.news" href="/rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -38,14 +39,21 @@
   "url": "https://quietwealth.news/",
   "description": "Patient, practical investing and wealth-building coverage — crypto, tokenized assets, real estate, dividend investing, tax strategy, and retirement.",
   "publisher": {
-    "@type": "Organization",
+    "@type": "NewsMediaOrganization",
     "name": "QuietWealth.news",
+    "url": "https://quietwealth.news/",
     "logo": {
       "@type": "ImageObject",
       "url": "https://quietwealth.news/images/publisher-logo.png",
       "width": 600,
       "height": 150
-    }
+    },
+    "sameAs": [
+      "https://REPLACE_WITH_QUIETWEALTH_SOCIAL_URL_1",
+      "https://REPLACE_WITH_QUIETWEALTH_SOCIAL_URL_2"
+    ],
+    "publishingPrinciples": "https://quietwealth.news/editorial-policy",
+    "correctionsPolicy": "https://quietwealth.news/corrections"
   }
 }
 </script>
@@ -547,7 +555,7 @@
   <div class="container">
     <h2>The <span class="italic-name">quiet weekly</span></h2>
     <p>One email, every Sunday. The week's most useful piece, plus a short note on what we're reading. No urgency, no price alerts, no noise.</p>
-    <form class="newsletter-form" action="#" method="post">
+    <form class="newsletter-form" action="https://REPLACE_WITH_BEEHIIV_SUBSCRIBE_URL" method="post">
       <input type="email" name="email" placeholder="you@email.com" required aria-label="Email address">
       <button type="submit" class="btn">Subscribe</button>
     </form>
@@ -577,8 +585,12 @@
       <div>
         <h4>About</h4>
         <ul>
-          <li><a href="/">Our approach</a></li>
-          <li><a href="/#newsletter">Newsletter</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/editorial-policy">Editorial Policy</a></li>
+          <li><a href="/corrections">Corrections</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+          <li><a href="/terms">Terms</a></li>
         </ul>
       </div>
       </div>

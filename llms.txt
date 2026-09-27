@@ -14,6 +14,15 @@ QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverag
 - [Side Hustles](https://quietwealth.news/side-hustles): What's actually working in side hustles, and peer-to-peer rental income.
 - [Financial Security](https://quietwealth.news/financial-security): The ongoing Scam Series, starting with phishing and smishing basics.
 
+## Pages
+
+- [About](https://quietwealth.news/about): Who we are, who we write for, and how we research and fact-check.
+- [Editorial Policy](https://quietwealth.news/editorial-policy): Sourcing standards, fact-checking, and disclosure policy.
+- [Corrections](https://quietwealth.news/corrections): How we handle and log factual errors.
+- [Contact](https://quietwealth.news/contact): How to reach us with a tip, a correction, or a question.
+- [Privacy](https://quietwealth.news/privacy): What we collect and how newsletter signups are handled.
+- [Terms](https://quietwealth.news/terms): The terms governing use of this site and its content.
+
 ## Sections
 
 - [Family Investing](https://quietwealth.news/family-office-101-who-needs-one): Family Office 101: What They Are, and Who Actually Needs One
