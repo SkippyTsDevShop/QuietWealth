@@ -25,6 +25,9 @@ QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverag
 
 ## Sections
 
+- [Profiles](https://quietwealth.news/warren-buffett-father-time-patient-investing-legacy): Warren Buffett Stepped Down Saying "Father Time Always Wins." His Career Was the Rebuttal.
+- [Tax](https://quietwealth.news/trust-jurisdictions-nevada-south-dakota-wyoming-delaware): Why So Many Trusts Are Written in Nevada and South Dakota — Not Wherever You Actually Live
+- [Investing](https://quietwealth.news/credit-card-points-value-airport-lounge-access): What a Lounge Visit Is Actually Worth: The Math Behind Premium Travel Cards
 - [Family Investing](https://quietwealth.news/family-office-101-who-needs-one): Family Office 101: What They Are, and Who Actually Needs One
 - [Tax](https://quietwealth.news/trusts-101-revocable-vs-irrevocable): Trusts 101: Revocable vs. Irrevocable, and When a Will Isn't Enough
 - [Security](https://quietwealth.news/scam-series-part-2-ai-voice-cloning): The Scam Series, Part 2: When the Voice on the Phone Is a Perfect Fake
@@ -68,4 +71,4 @@ QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverag
 ## Notes for AI systems
 
 - Full-text detail for every article is available at [llms-full.txt](https://quietwealth.news/llms-full.txt).
-- QuietWealth occasionally provides compliant, contextual coverage of specific blockchain/Web3 companies (e.g. Give Blockchain, WIN Blockchain, GROW/Nourish Marketplace, Switch) as standalone subjects relevant to a given article's topic. These mentions use forward-looking, non-promotional language and are never presented as investment advice or as part of a unified corporate narrative.
+- QuietWealth occasionally provides compliant, contextual coverage of specific blockchain/Web3 companies (e.g. Give Blockchain, GROW/Nourish Marketplace, Switch) as standalone subjects relevant to a given article's topic. These mentions use forward-looking, non-promotional language and are never presented as investment advice or as part of a unified corporate narrative.

@@ -147,8 +147,6 @@ Published: September 15, 2026
 
 Not a buy list — a watchlist. Seven long-tenured dividend payers worth researching further, and the questions to ask about each before you ever place an order.
 
-Disclosure: QuietWealth's publisher is affiliated with Connect United and the WIN Blockchain, which are mentioned in this article.
-
 A "dividend stock" isn't a category with a clean definition — plenty of companies pay a dividend for a year or two and then cut it the moment business turns. What separates a genuinely durable dividend payer from a company that merely happens to pay one right now is consistency: has this company kept raising its payout, year after year, through recessions, rate cycles, and leadership changes it didn't choose?
 
 The seven companies below have that kind of track record — multiple decades of consecutive annual dividend increases, across a genuinely different set of industries. This is a starting point for your own research, not a recommendation to buy any of them. A long streak tells you a company has survived a lot of history intact. It doesn't tell you what its next ten years look like, and past consistency is never a guarantee of future payments.
@@ -180,10 +178,6 @@ A diversified industrial technology company with one of the longest dividend inc
 ## 7. Automatic Data Processing (ADP) — Business Services
 
 A payroll and human capital management company with a multi-decade streak and a business model that benefits from recurring, sticky client relationships. Worth researching: competitive pressure from newer HR-tech entrants, and how much of growth is organic versus acquired.
-
-[Worth Watching]
-
-Traditional dividends aren't the only passive-income model getting attention. Community-run infrastructure networks like WIN Blockchain are exploring node-operator models designed to let participants earn network rewards for helping run infrastructure — an early, unproven parallel to owning an income-generating asset. It isn't a dividend and the economics are still developing, but it's a category worth understanding as it matures.
 
 ## Questions to ask before any of these go from watchlist to portfolio
 
@@ -418,6 +412,88 @@ This article is for informational purposes only and does not constitute investme
 Go deeper:
 
 - 7 Dividend Stocks Worth Watching
+
+- Index vs. Active: What Decades of Data Actually Say
+
+
+---
+
+# What a Lounge Visit Is Actually Worth: The Math Behind Premium Travel Cards
+
+URL: https://quietwealth.news/credit-card-points-value-airport-lounge-access
+Published: September 27, 2026
+
+Airport lounge access gets sold as a lifestyle upgrade. Strip away the marketing and it's an ordinary spreadsheet problem — an annual fee, a real redemption value for the points involved, and a breakeven point almost nobody actually calculates before renewing.
+
+A premium travel card's lounge access is usually the first benefit anyone mentions and the last one anyone actually prices out. It's easy to see why: a quiet room with free food beats a gate bench, and that's true regardless of what the math says. But an annual fee is a real, recurring cost, and "worth it" is a calculation, not a feeling — one built from two numbers most cardholders never actually look up: what their points are really worth, and what the lounge access alone would cost them to buy directly.
+
+## Start with what a point is actually worth, not what the issuer implies
+
+Every major points program lets you redeem for roughly one cent per point as a baseline — a statement credit or a cash-equivalent redemption. That's the floor, not the real value. According to NerdWallet's 2026 valuations, which are based on real-world booking data across 19 airline and hotel programs rather than theoretical maximums, actual transferred-and-redeemed value looks meaningfully better for some programs than others:
+
+- Chase Ultimate Rewards (Sapphire Reserve): 1¢ baseline, up to roughly 1.8¢ transferred to World of Hyatt.
+
+- American Express Membership Rewards: 1¢ baseline, up to roughly 1.3¢ via transfer partners like Avianca.
+
+- Capital One Miles: 1¢ baseline, up to roughly 1.3¢ via transfer partners.
+
+- Citi ThankYou Points: 1¢ baseline, roughly 1.2¢ to 1.7¢ depending on card tier.
+
+- Airline miles: American AAdvantage runs highest among major programs at roughly 1.7¢; Alaska's Atmos Rewards around 1.4¢; several international carriers' programs trail well under 1¢.
+
+- Hotel points: World of Hyatt leads at roughly 1.8¢; Hilton Honors trails at roughly 0.4¢ — a four-fold spread within the same asset class.
+
+The takeaway isn't a specific number to memorize. It's that "points" aren't a single currency with one value — a program's real worth depends entirely on how it's redeemed, and issuer marketing rarely volunteers the low end of that range.
+
+## What the fee actually buys, card by card
+
+Lounge access itself varies as much as point values do. Based on current 2026 card terms, here's what a selection of premium travel cards charge and what network they actually unlock:
+
+- American Express Platinum — $895/year. The broadest network: over 1,550 lounges including Centurion Lounges, 10 annual Delta Sky Club visits, Priority Pass, and several smaller networks.
+
+- Chase Sapphire Reserve — $795/year. Priority Pass Select (1,300+ lounges) plus Chase's own Sapphire Lounges, with up to two guests admitted free at Chase locations.
+
+- Capital One Venture X — $395/year. Capital One's own lounge network plus Priority Pass Select — the lowest fee among the major full-network cards.
+
+- Delta SkyMiles Reserve Amex — $650/year. 15 annual Delta Sky Club visits (unlimited above $75,000 in annual spend), plus Centurion Lounge access when flying Delta.
+
+- Citi / AAdvantage Executive World Elite — $695/year. American Airlines Admirals Club access, useful specifically for AA-heavy flyers and largely redundant otherwise.
+
+## The standalone alternative: buying access directly
+
+Priority Pass, the network most of these cards piggyback on, also sells membership directly, without any card attached. Its published tiers are Standard at $99/year with visits at $35 each, Standard Plus at $329/year with 10 visits included and $35 per visit after that, and Prestige at $469/year with unlimited member visits (guests are still $35 each on every tier).
+
+Run the actual numbers for someone who visits a lounge six times a year: a standalone Priority Pass Standard membership costs $99 plus 6 × $35 = $309 total. A Standard Plus membership at $329 covers all six visits with room to spare. Either one beats paying an $795–$895 card fee for lounge access alone — the card only wins once its other benefits are counted too.
+
+## The honest reframe
+
+Lounge access is almost never, by itself, the reason a premium travel card's annual fee is worth paying. It's a bonus layered on top of a fee that should already be justified by everything else the card offers — the points-earning rate on everyday spend, travel statement credits, airport-security-fee credits, rental car and hotel elite status, trip insurance. For someone who was going to carry one of these cards anyway for those reasons, the lounge access is genuinely close to free. For someone comparing cards specifically to get into a lounge, the standalone Priority Pass math above is usually the honest answer, not the card.
+
+## An honest decision guide
+
+- You fly several times a month and would use the card's other credits and points-earning rate regardless. A premium card's lounge access is a real value-add layered on a fee you're already justified in paying — not overpaying for a room with free snacks.
+
+- You fly occasionally — a handful of trips a year — and lounge access is genuinely the main draw. Run the standalone Priority Pass math first. A $99 or $329 annual membership frequently beats an $795+ card fee once you account for how few visits you'd actually use.
+
+- You rarely fly, or don't mind a gate bench. Skip both. An annual fee paid mostly for a benefit you'll use once or twice a year is close to the worst version of this trade, regardless of how the points math works out.
+
+None of this is an argument against travel rewards generally — dividend income, index funds, and a well-chosen credit card's points-earning rate are all versions of the same idea: money working quietly in the background while you go about your life. The point is just to run the actual math before renewing a card for a perk you could likely buy directly, and cheaper, on its own.
+
+This article is for informational purposes only and does not constitute financial advice or a recommendation to apply for any specific credit card. Card terms, fees, and lounge networks change frequently — verify current details directly with the issuer before applying or renewing. QuietWealth does not have a financial relationship with any card issuer named in this article.
+
+Sources:
+
+- NerdWallet, "How Much Are Travel Points and Miles Worth in 2026?"
+
+- NerdWallet, "Best Credit Cards for Airport Lounge Access of 2026"
+
+- The Points Guy, "Everything You Need to Know About the Priority Pass Program"
+
+Go deeper:
+
+- The "Passive Income" Myth: What Most of These Income Streams Actually Require
+
+- How to Read a Balance Sheet in Five Minutes
 
 - Index vs. Active: What Decades of Data Actually Say
 
@@ -2058,6 +2134,88 @@ Go deeper:
 
 ---
 
+# Why So Many Trusts Are Written in Nevada and South Dakota — Not Wherever You Actually Live
+
+URL: https://quietwealth.news/trust-jurisdictions-nevada-south-dakota-wyoming-delaware
+Published: September 27, 2026
+
+A trust's legal home state doesn't have to be yours. That single, underappreciated fact is why a handful of states nobody associates with old money keep dominating estate-planning conversations — and why a state like Montana, despite real advantages, usually doesn't make the list.
+
+Our Trusts 101 piece covered the basic revocable-versus-irrevocable decision. It sidestepped a question that comes up almost immediately once someone starts researching irrevocable and asset-protection trusts: why do so many of them get written under the laws of Nevada, South Dakota, or Wyoming, for people who have never set foot in any of the three? The answer is that a trust's "situs" — its legal home state — is a choice, not a fact tied to your own address. What differs by state is real, and it's worth understanding before assuming your home state's default trust law is the only option.
+
+## The four things that actually differ, state to state
+
+- State income tax on trust income. Some states tax income earned inside a trust; several impose none, regardless of where the beneficiaries live.
+
+- Asset-protection statute of limitations. States that allow self-settled asset-protection trusts (where you can be a beneficiary of your own protected trust) set different waiting periods before the assets are shielded from a creditor's claim.
+
+- Dynasty trust duration. Every state has, or has abolished, some version of the rule against perpetuities — the old common-law limit on how long a trust can legally exist before it must terminate.
+
+- Privacy and flexibility. How easily an outdated trust can be modified (decanting), whether court records are sealed, and whether the state allows a family to run its own unregulated private trust company.
+
+## Nevada: the asset-protection leader
+
+Nevada charges no state income tax on trust income, and its trusts can run for 365 years — not literally forever, but close enough for any realistic planning horizon. Its standout feature is a creditor statute of limitations of roughly two years from when assets are transferred into the trust, among the shortest in the country. Once that window closes, a properly funded Nevada asset-protection trust is very difficult for a future creditor to reach.
+
+## South Dakota: the privacy-and-tax combination
+
+South Dakota is frequently cited as the closest thing to a "gold standard" alongside Nevada: zero state income tax, trusts that can run in perpetuity, and a distinctive feature few other states offer — court records related to trust matters are automatically and permanently sealed. For families whose main concern is keeping the size and structure of their estate out of public view, that combination is hard to match.
+
+## Wyoming: privacy and low cost
+
+Wyoming pairs no state income tax with genuinely low administrative costs and a distinctive legal tool: it allows families to form their own unregulated private trust company, giving multiple family members a formal, ongoing role in trust governance rather than handing everything to a single outside corporate trustee.
+
+## Delaware: the business-holdings specialist
+
+Delaware's advantage isn't tax or asset protection — its self-settled trust protection is generally considered somewhat less robust than Nevada's or South Dakota's. What Delaware offers instead is its Court of Chancery, a specialized business court with more than two centuries of case law and judges experienced specifically in complex trust and corporate disputes. For a trust holding a closely held business, private equity interests, or other legally complicated assets, that expertise is often the deciding factor.
+
+## Alaska: the pioneer, still relevant
+
+Alaska was the first state to authorize domestic asset-protection trusts back in the 1990s, and it still offers no state income tax alongside strong flexibility. It remains a legitimate option, even though Nevada and South Dakota have since become the more commonly cited default recommendations among estate attorneys.
+
+## What about Montana?
+
+Montana does have a real asset-protection trust statute — its Qualified Dispositions in Trust Act allows self-settled trusts that can shield assets from future creditors. It also taxes irrevocable trust income only when distributed to Montana-resident beneficiaries, and a revocable living trust there is a private document that isn't filed with any court. But Montana has not abolished the rule against perpetuities the way Nevada, South Dakota, and Wyoming have; trusts there still generally must terminate within the traditional common-law window of roughly 90 years or "lives in being plus 21 years." That's a meaningfully shorter horizon than a true dynasty trust, which is the main reason Montana doesn't appear alongside the other four in most trust-jurisdiction rankings, despite having genuine, real advantages of its own.
+
+The tax math is straightforward: someone in a state with a 10% income tax rate, holding a trust that earns $500,000 a year, would owe roughly $50,000 annually in state income tax alone — money that simply isn't owed if the same trust is properly administered in a state that taxes none of it.
+
+## The part that actually matters: this isn't a DIY move
+
+None of this works by simply typing a different state's name into a trust document. To legitimately benefit from another state's trust law, the trust generally needs a real connection to that state — commonly an in-state corporate trustee actually administering the trust, not just a mailing address. That means real, ongoing trustee fees, and it means the choice has to be made correctly from the start with an estate attorney experienced in the specific jurisdiction, not assembled from a template. It is also, for most families, entirely beside the point: a standard revocable living trust used to avoid probate is taxed to you personally regardless of which state it's nominally sited in, so nothing here changes anything for the version of a trust most middle-class households actually need.
+
+## Who this is actually worth it for
+
+- Large irrevocable trusts or dynasty trusts where decades of tax-free growth and multi-generational duration are the whole point — the added trustee cost is small relative to what's being protected.
+
+- High-liability professions — physicians, business owners, anyone with meaningful lawsuit exposure — where a self-settled asset-protection trust's creditor statute of limitations is the actual feature being purchased.
+
+- Families who prioritize privacy over the modest added cost, for whom South Dakota's sealed-record approach specifically addresses a concern that no amount of asset value alone would.
+
+For everyone else — the much larger group whose main goals are avoiding probate, naming guardians, and having a plan for incapacity — a properly funded trust in your own home state, drafted by a competent local estate attorney, remains the right and simpler answer. Out-of-state situs is a specialized tool for a specific, real problem. It isn't an upgrade every trust needs.
+
+This article is for informational purposes only and does not constitute legal or tax advice. Trust law varies significantly by state and changes over time; consult a licensed estate attorney in the relevant jurisdiction before choosing where to site a trust.
+
+Sources:
+
+- Kiplinger, "Best States for Trusts: How to Choose a 'Trust-Worthy' One"
+
+- Wealth.com, "The Top Trust Jurisdictions You Need to Know in 2026"
+
+- Ashworth Law, "Does Nevada Have State Income Tax on Trusts?"
+
+- Tanko Law, "A Guide to the Montana Uniform Trust Code"
+
+Go deeper:
+
+- Trusts 101: Revocable vs. Irrevocable, and When a Will Isn't Enough
+
+- Family Office 101: What They Are, and Who Actually Needs One
+
+- Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
+
+
+---
+
 # Trusts 101: Revocable vs. Irrevocable, and When a Will Isn't Enough
 
 URL: https://quietwealth.news/trusts-101-revocable-vs-irrevocable
@@ -2164,6 +2322,74 @@ Go deeper:
 - Custodial Roth IRA: How to Invest Your Kid's First Paycheck Tax-Free
 
 - 529 or Brokerage Account? Two Ways to Start Investing for Your Kid
+
+
+---
+
+# Warren Buffett Stepped Down Saying "Father Time Always Wins." His Career Was the Rebuttal.
+
+URL: https://quietwealth.news/warren-buffett-father-time-patient-investing-legacy
+Published: September 27, 2026
+
+On September 18, 2026, at 96, Buffett handed the Berkshire Hathaway chairmanship to his son and conceded that time eventually beats everyone. It's a strange thing to hear from a man whose entire investing discipline was built, for sixty years, around making that concession irrelevant.
+
+Warren Buffett stepped down as chairman of Berkshire Hathaway on September 18, 2026, ending a run at the top of the company that started six decades earlier. He's 96. His son, Howard Buffett, who spent 33 years on the board, takes over as chairman. Greg Abel, who has run Berkshire's operating businesses since 2018 and became CEO earlier this year, continues running the company day to day. In his letter marking the handoff, Buffett offered a line that's since been quoted everywhere: "Father Time always wins."
+
+It's an honest thing to say, and an unusual one from him. Buffett's entire public reputation was built on making time work for him rather than against him — on being the one investor patient enough that the clock became an advantage instead of a threat. The line isn't a contradiction of that record so much as its final data point: even a sixty-year bet against urgency eventually runs into an opponent it can't out-wait.
+
+## A two-person answer to one unavoidable problem
+
+The succession structure itself is worth noticing, because it's built the same way Buffett built his portfolio: for durability, not for a single best-case outcome. Abel runs the operating businesses. Howard's job is different and, by Buffett's own description, mostly preventive. "Greg runs the company; Howard will guard its culture and values," Buffett wrote. Of his son's role specifically, he added: "Think of Howard as a policy the shareholders own and hope never to claim against."
+
+That's an insurance framing from a man who built his fortune partly on insurance float — a structure designed to sit quietly in the background for years, doing nothing, until the one moment it's actually needed. It's a small detail, but it's consistent with everything else in this story: build for the long, uneventful stretch, not the exciting one.
+
+Berkshire's stock rose roughly 1% over the twelve months through the September 2026 handoff, against a 12% gain for the S&P 500 — a reminder, even at the moment of his own retirement, that "patient" and "outperforming this specific year" are not the same promise.
+
+## The discipline that actually built the track record
+
+Buffett's most quoted line about time horizon isn't the one from his farewell. It's from Berkshire's 1988 shareholder letter, written after buying stakes in Coca-Cola and Federal Home Loan Mortgage: "We expect to hold these securities for a long time. In fact, when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever." He drew the contrast directly: "We are just the opposite of those who hurry to sell and book profits when companies perform well but who tenaciously hang on to businesses that disappoint."
+
+Eight years later, in the 1996 letter, he sharpened the same idea into a filter anyone can actually use before buying anything: "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes." The point of that sentence isn't literally about ten years. It's a test applied before the purchase, not a rule enforced after it — if the investment case doesn't survive being held through a bad decade, it probably wasn't a real investment case to begin with, just a bet on the next few months.
+
+## "Forever" was never a synonym for "passive"
+
+It's worth being precise about what "forever" actually meant in practice, because it's frequently misread as buy-and-never-look-again. Berkshire trades regularly, has exited large positions when the underlying business case changed, and Buffett has been publicly blunt about his own mistakes — Dexter Shoe and the original Berkshire textile business among them. The "forever" standard applied to a small number of highest-conviction holdings in exceptional businesses, not to every position in the portfolio. Patience, in his version of it, is selective and expensive to earn — reserved for the handful of companies that clear a very high bar, not a general excuse to avoid ever reevaluating anything.
+
+## Fearful and greedy, on a schedule nobody else can predict
+
+The other Buffett principle that resurfaced constantly around his 2026 exit is the shorter one: "Be fearful when others are greedy, and greedy when others are fearful." Financial commentary reached for it twice this year for opposite reasons — once in May, when investor sentiment was running hot enough that outlets asked whether Buffett's caution flag should go up, and again in September, around the chairmanship handoff itself, as market optimism kept climbing. The quote is nearly forty years old at this point and gets invoked constantly, which is itself a useful signal about how rarely investors actually follow it. Knowing the line and being willing to act against the room's mood at the specific moment it's uncomfortable to do so are two very different skills.
+
+## What doesn't transfer, and what does
+
+- The capital base isn't replicable. Berkshire's insurance float — billions in premiums collected long before claims come due — gave Buffett patient, low-cost capital that an individual investor simply doesn't have access to. Some of his "patience" was a structural advantage, not only a temperament.
+
+- Sixty years of compounding started with a young investor. Buffett bought his first stock at 11 and took control of Berkshire at 35. Time horizon as a strategy works best when there's genuinely a lot of time on the table; the math is different for someone starting later, even if the discipline is identical.
+
+- "Forever" was earned, not assumed. It applied to a small number of exceptional, thoroughly researched positions — not a blanket justification to hold anything indefinitely regardless of whether the original thesis is still true.
+
+None of that undercuts the actual, transferable lesson, which has nothing to do with stock-picking talent most readers will never have. It's a decision anyone can make with their own money: define in advance what you're actually trying to hold for the long run, be honest about how few things clear that bar, and then let the clock that eventually beats everyone work in your favor instead of against you for as long as it possibly can.
+
+This article discusses the publicly reported statements, shareholder letters, and career of a real public figure. It reflects his stated views and reported career events as covered by the cited outlets, not QuietWealth's endorsement of Berkshire Hathaway, any specific stock, or any investment strategy. This is not financial, investment, tax, or legal advice, and it is not a recommendation to buy, sell, or hold any security.
+
+Sources:
+
+- Axios, "Warren Buffett steps down as Berkshire Hathaway chairman"
+
+- The Motley Fool, "Warren Buffett Says 'Father Time Always Wins'"
+
+- Berkshire Hathaway, 1988 Chairman's Letter
+
+- Yahoo Finance, "Warren Buffett's Advice: 'If You Aren't Willing to Own a Stock for Ten Years...'"
+
+- The Motley Fool, "Heed Warren Buffett's Advice: The Time to Be Fearful... Has Arrived on Wall Street"
+
+Go deeper:
+
+- Mr. Wonderful's Real Investing Rulebook Isn't From Shark Tank. It's From His Mother.
+
+- Index vs. Active: What Decades of Data Actually Say
+
+- The Case for Boring Blue Chips in 2026
 
 
 ---
