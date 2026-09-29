@@ -17,3 +17,4 @@ User-agent: CCBot
 Allow: /
 
 Sitemap: https://quietwealth.news/sitemap.xml
+Sitemap: https://quietwealth.news/news-sitemap.xml

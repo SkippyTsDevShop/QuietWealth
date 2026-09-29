@@ -581,6 +581,111 @@ p { margin: 0 0 1.3em; }
 
 .author-line .name { color: var(--ink); font-weight: 600; }
 
+.data-table-wrap {
+  margin: 2.4em 0;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+}
+
+.data-table-wrap .table-label {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-faint);
+  padding: 18px 22px 0;
+}
+
+table.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14.5px;
+  margin: 0;
+}
+
+table.data-table caption {
+  caption-side: top;
+  text-align: left;
+  padding: 18px 22px 0;
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-faint);
+}
+
+table.data-table th, table.data-table td {
+  text-align: left;
+  padding: 12px 22px;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+  vertical-align: top;
+}
+
+table.data-table thead th {
+  font-weight: 600;
+  color: var(--ink);
+  background: var(--paper-alt);
+  border-bottom: 1px solid var(--line-strong);
+  white-space: nowrap;
+}
+
+table.data-table tbody tr:last-child td { border-bottom: none; }
+table.data-table tbody tr:nth-child(even) { background: var(--paper-alt); }
+
+table.data-table td.num, table.data-table th.num { text-align: right; }
+
+.calc-example {
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 26px 28px;
+  margin: 2.4em 0;
+  background: var(--paper-alt);
+}
+
+.calc-example .calc-label {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-faint);
+  margin-bottom: 14px;
+}
+
+.calc-example .calc-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 7px 0;
+  font-size: 14.5px;
+  border-bottom: 1px dashed var(--line);
+}
+
+.calc-example .calc-row:last-child { border-bottom: none; }
+
+.calc-example .calc-row span:first-child { color: var(--ink-soft); }
+.calc-example .calc-row span:last-child { color: var(--ink); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+.calc-example .calc-row.total {
+  border-top: 1px solid var(--line-strong);
+  margin-top: 4px;
+  padding-top: 12px;
+}
+
+.calc-example .calc-row.total span { font-weight: 700; }
+
+.calc-example .calc-note {
+  font-size: 13.5px;
+  color: var(--ink-faint);
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+@media (max-width: 640px) {
+  table.data-table { font-size: 13.5px; }
+  table.data-table th, table.data-table td { padding: 10px 14px; }
+  .calc-example .calc-row { font-size: 13.5px; }
+}
+
 .related {
   padding: 20px 0 60px;
 }

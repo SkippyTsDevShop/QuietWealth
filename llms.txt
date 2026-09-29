@@ -17,6 +17,7 @@ QuietWealth deliberately avoids hype, urgency signals, and price-chasing coverag
 ## Pages
 
 - [About](https://quietwealth.news/about): Who we are, who we write for, and how we research and fact-check.
+- [Editorial Team](https://quietwealth.news/editorial-team): How our collective byline works, and how articles are sourced and reviewed.
 - [Editorial Policy](https://quietwealth.news/editorial-policy): Sourcing standards, fact-checking, and disclosure policy.
 - [Corrections](https://quietwealth.news/corrections): How we handle and log factual errors.
 - [Contact](https://quietwealth.news/contact): How to reach us with a tip, a correction, or a question.

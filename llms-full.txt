@@ -129,6 +129,14 @@ Neither account is a mistake. The mistake is picking one because it's what a fri
 
 This article is for informational purposes only and does not constitute financial, tax, or legal advice. 529 plan rules vary by state and are subject to change. Consult a licensed financial or tax advisor before making account decisions.
 
+Sources:
+
+- IRS, Topic no. 313, "Qualified Tuition Programs (QTPs)"
+
+- IRS, Topic no. 553, "Tax on a Child's Investment and Other Unearned Income"
+
+- SEC Investor.gov, "529 Plans"
+
 Go deeper:
 
 - Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
@@ -235,6 +243,13 @@ Example: if you have $93,000 of pre-tax money sitting in an old rollover IRA and
 
 This is the single most common way people mess up a backdoor Roth: they don't realize an old 401(k) rollover sitting in a Traditional IRA changes the math entirely.
 
+Table: the same $7,500 contribution, two very different outcomes
+
+Starting pointExisting pre-tax IRA balanceNew after-tax contributionTotal IRA balanceTaxable share of any conversion
+
+Clean start, no old IRAs$0$7,500$7,5000%
+Old 401(k) rollover sitting in an IRA$93,000$7,500$100,50092.5% (≈$6,938 of the $7,500 converted)
+
 ## How people work around the pro-rata problem
 
 The most common fix is rolling existing pre-tax IRA money into a current employer's 401(k), if the plan accepts incoming rollovers — this removes that money from the pro-rata calculation, since 401(k) balances aren't counted. Once the only money left in any IRA is the fresh after-tax contribution, the conversion is clean again.
@@ -254,6 +269,14 @@ This is exactly why it's worth checking your full IRA picture — including old 
 The backdoor Roth is a well-established, IRS-recognized strategy for high earners who are otherwise locked out of Roth contributions — but it's a strategy with a specific failure mode, and that failure mode is almost always a forgotten pre-tax IRA balance sitting somewhere else. Before doing this for the first time, take stock of every Traditional, SEP, and SIMPLE IRA you hold, not just the new account you're about to fund.
 
 This article is for informational purposes only and does not constitute tax or financial advice. IRA rules, income thresholds, and the pro-rata calculation are complex and change year to year; consult a licensed tax professional before executing a backdoor Roth conversion.
+
+Sources:
+
+- IRS Notice 2025-67, 2026 retirement plan cost-of-living adjustments
+
+- IRS, Publication 590-B, Distributions from IRAs (pro-rata rule)
+
+- IRS, Instructions for Form 8606
 
 Go deeper:
 
@@ -543,6 +566,8 @@ Sources:
 
 - Fidelity, "Turbocharge your child's retirement" (custodial Roth IRA guide)
 
+- IRS, Publication 590-A: Contributions to Individual Retirement Arrangements (definition of compensation)
+
 - Charles Schwab, "What is a Custodial Roth IRA and How Does It Work?"
 
 Go deeper:
@@ -603,6 +628,12 @@ None of this changes how much you were already planning to give. It just changes
 
 This article is for informational purposes only and does not constitute tax or financial advice. Charitable deduction rules, AGI limits, and carryforward provisions are complex and subject to change; consult a licensed tax professional before making a charitable gift of appreciated assets.
 
+Sources:
+
+- IRS, Topic no. 506, "Charitable contributions"
+
+- IRS, Publication 526, "Charitable Contributions"
+
 Go deeper:
 
 - Estate Planning Basics Everyone Under 40 Skips (and Shouldn't)
@@ -656,6 +687,12 @@ For most people without complex assets or a blended family, a basic will, health
 The starting point is the same either way: naming a guardian if you have minor children, updating beneficiary designations on retirement and insurance accounts, and putting basic decision-making authority in writing before you need someone to use it.
 
 This article is for informational purposes only and does not constitute legal advice. Estate planning laws vary significantly by state; consult a licensed estate planning attorney to prepare documents valid in your jurisdiction.
+
+Sources:
+
+- IRS, "What's new — Estate and gift tax"
+
+- Trust & Will, 2026 Estate Planning Report
 
 Go deeper:
 
@@ -767,6 +804,14 @@ None of this is a recommendation to move anywhere specific — it depends enormo
 
 This article is for informational purposes only and does not constitute immigration, tax, or financial advice. Visa requirements, income thresholds, and tax treatment change frequently and vary by individual circumstance; consult a licensed immigration attorney and cross-border tax professional before planning a retirement relocation.
 
+Sources:
+
+- Portuguese Ministry of Foreign Affairs, D7 national visa requirements
+
+- Panama National Immigration Service, Pensionado visa requirements
+
+- Social Security Administration, "Your Payments While You Are Outside the United States"
+
 Go deeper:
 
 - The HSA: The Most Underrated Retirement Account Nobody Maxes Out
@@ -797,6 +842,14 @@ A multi-family office (MFO) pools that same infrastructure across several unrela
 
 Scale is the whole argument for a multi-family office. Average annual operating costs for smaller single-family offices (under $500 million in assets) run around $1.8 million a year, compared with $8.7 million for offices managing over $1 billion. Pooling that fixed overhead across several families is what makes the "family office experience" available well below the $100 million single-family threshold.
 
+Table: three models, three different price tags
+
+ModelTypical thresholdTypical annual costWhat you get
+
+Single-family office$100M+ net worth ($250M+ for cost-efficiency)~$1M–$10M+/year (30–120 bps of AUM)Dedicated staff built around one family
+Multi-family office$25M–$50M+ investable assets0.25%–1.00% of AUM, flat retainer, or hybridShared infrastructure across several families
+Fee-only advisor + estate attorneyNo practical minimumTypically ~0.25%–1% of AUM, or flat/hourly feesCoordinated advice without dedicated staff
+
 ## How family offices are reshaping investing more broadly
 
 Roughly 70% of family offices now participate directly in private acquisitions rather than routing that capital through traditional private equity funds and their standard "2 and 20" fee structure — a meaningful shift in how large private capital gets deployed. The outsourced chief investment officer (OCIO) market family offices increasingly rely on had reached $3.3 trillion by the end of 2024. What consistently sets this capital apart from institutional money, per Forbes's reporting, is patience: family offices aren't managing toward a quarterly reporting cycle, which makes them attractive, flexible, long-term partners for entrepreneurs and sponsors in a way a typical institutional allocator often isn't.
@@ -820,6 +873,8 @@ Sources:
 - Forbes, "How The Family Office Is Quietly Reshaping Global Investing"
 
 - Creative Planning, "What Is a Single-Family Office? Structure, Costs and Setup Guide"
+
+- Deloitte Private, "Defining the Family Office Landscape" (original research report)
 
 - AssetVantage, "Before You Approach a Family Office, Score These 4 Factors"
 
@@ -1061,6 +1116,24 @@ The balance sheet always balances by definition — if it doesn't, something in 
 
 - Working capital (current assets minus current liabilities) — the dollar-amount version of the current ratio, useful for seeing the actual cushion a company has, not just the proportion.
 
+Table: a simplified balance sheet (hypothetical example)
+
+AssetsAmountLiabilities & equityAmount
+
+Cash$40,000Accounts payable$50,000
+Accounts receivable$60,000Short-term debt$50,000
+Inventory$100,000Total current liabilities$100,000
+Total current assets$200,000Long-term debt$150,000
+Property & equipment (net)$300,000Total liabilities$250,000
+Total equity$250,000
+Total assets$500,000Total liabilities + equity$500,000
+
+The three ratios, applied to the example above
+Current ratio: $200,000 ÷ $100,0002.0
+Debt-to-equity ratio: $250,000 ÷ $250,0001.0
+Working capital: $200,000 − $100,000$100,000
+This is a simplified, hypothetical example built to illustrate the ratios above, not a real company's filing. An actual 10-K balance sheet includes many more line items.
+
 ## Where to actually find one
 
 For any publicly traded U.S. company, balance sheets are included in the 10-K (annual) and 10-Q (quarterly) filings, both freely available through the SEC's EDGAR database — no subscription or brokerage account required, as investor.gov's guide to reading a 10-K explains. Most brokerage platforms and financial data sites also republish this same data in a more readable format, but the SEC filing is the primary source if a number ever looks off.
@@ -1093,6 +1166,13 @@ To contribute to an HSA, you need to be enrolled in a qualifying high-deductible
 
 If you qualify, the same IRS guidance sets the 2026 HSA contribution limits at $4,400 for self-only coverage and $8,750 for family coverage, with an additional $1,000 catch-up contribution if you're 55 or older (and not yet enrolled in Medicare).
 
+The triple advantage, in dollars — family coverage, 2026 max
+Maximum family HSA contribution (2026)$8,750
+Tax saved going in, in the 24% bracket$2,100
+That single year's contribution, invested and left untouched for 20 years (hypothetical 6% average annual return)≈ $28,060
+Withdrawn for qualified medical expenses$0 tax owed, on any of it
+Illustrative only. Assumes one year's contribution invested at a hypothetical 6% average annual return, compounded over 20 years, with no further contributions or withdrawals. Actual returns vary and aren't guaranteed; contribution limits are indexed annually by the IRS.
+
 ## Why most people underuse it
 
 The default behavior — and the reason HSAs are underrated — is using the account exactly the way its name suggests: deposit money, spend it on this year's medical bills, repeat. That's a legitimate use, but it treats a triple-tax-advantaged account like a basic checking account, and leaves the actual advantage on the table.
@@ -1123,6 +1203,12 @@ None of that changes the core math: a dollar that goes in tax-free, grows tax-fr
 
 This article is for informational purposes only and does not constitute tax, financial, or health insurance advice. HSA and HDHP rules are set annually by the IRS and are subject to change; consult a licensed financial or tax advisor for guidance specific to your situation.
 
+Sources:
+
+- IRS Revenue Procedure 2025-19, 2026 HSA and HDHP limits
+
+- IRS, Publication 969, Health Savings Accounts and Other Tax-Favored Health Plans
+
 Go deeper:
 
 - Roth IRA vs. Traditional IRA: Where Should Your Next $7,000 Go?
@@ -1150,6 +1236,14 @@ Across most reporting periods, the majority of actively managed large-cap U.S. e
 ## Why the odds are structurally stacked this way
 
 The math isn't mysterious. Before fees, active managers as a group roughly mirror the market they're trying to beat — that's close to a tautology, since active managers collectively make up a large share of the market itself. After fees, that "roughly even" starting point becomes a headwind every single year. A typical actively managed large-cap fund charges somewhere in the 0.5%-1%+ range annually, while a broad-market index fund commonly charges 0.03%-0.05%, part of a fee gap the Investment Company Institute tracks industry-wide every year. Over 20-30 years of compounding, that fee gap alone accounts for a meaningful share of the performance difference — before a single stock pick is even evaluated.
+
+The cost of a fee gap — $100,000, 30 years
+Starting investment$100,000
+Hypothetical gross annual return (before fees)7.0%
+Index fund (0.04% expense ratio), after 30 years≈ $752,700
+Active fund (0.75% expense ratio), after 30 years≈ $616,400
+Difference — the fee gap alone≈ $136,000
+Illustrative only. Assumes an identical 7% gross annual return for both funds before fees, compounded over 30 years with no additional contributions or withdrawals. Actual returns, and the gap between any two specific funds, will differ.
 
 A fund doesn't need to be badly managed to underperform its benchmark after fees — it just needs to be average. And by definition, most managers are average or worse relative to their peers, in any given year.
 
@@ -1487,6 +1581,12 @@ None of the four options above is universally correct. But all four require you 
 
 This article is for informational purposes only and does not constitute financial or tax advice. Rollover and conversion decisions have tax consequences that vary by individual circumstances; consult a licensed financial advisor before moving retirement funds.
 
+Sources:
+
+- U.S. Department of Labor, EBSA news release on SECURE 2.0 auto-portability
+
+- Bureau of Labor Statistics, Consumer Expenditures news release
+
 Go deeper:
 
 - Backdoor Roth IRA, Explained Without the Jargon
@@ -1639,6 +1739,17 @@ On taxes, direct rental property owners can deduct mortgage interest, depreciati
 
 REITs and rental property aren't the only two doors into real assets. Platforms like GROW (Nourish Marketplace) are working to bring farmland and food-supply assets onto tokenized platforms, aiming to open access to regenerative agriculture — a category that's traditionally been out of reach for retail investors. It's an early-stage, illiquid corner of the real-assets world, but one worth tracking alongside more established options like REITs and rental property.
 
+Table: the same asset class, two very different experiences
+
+DimensionREITRental property
+
+LiquiditySell any day the market's openTypically weeks to months to sell
+Typical historical return~3%–7% dividend yield, plus price appreciation~6%–12% (cash flow + appreciation), highly market-dependent
+LeverageUsed at the corporate level, not by you directlyYou can finance ~75%–80% of the purchase yourself
+Tax treatmentDividends generally taxed as ordinary incomeMortgage interest, depreciation, and expenses are deductible
+Time commitmentNone — fully passiveTenants, maintenance, vacancies (or a property manager's fee)
+Typical entry pointThe price of one shareDown payment plus closing costs, often tens of thousands
+
 ## Which one fits which investor
 
 If you want real estate exposure without becoming a landlord — no tenant calls, no maintenance decisions, the ability to sell instantly if your plans change — a REIT held inside a diversified portfolio does that cleanly, especially inside a tax-advantaged account where the dividend tax treatment matters less. If you have the time, temperament, and capital to manage a physical property (or the budget to pay someone who will), direct ownership offers leverage, tax advantages, and control that a REIT simply can't replicate — along with operational risk and illiquidity that a REIT doesn't carry either.
@@ -1689,6 +1800,21 @@ Mathematically, if your tax rate is identical at contribution and at withdrawal,
 
 - Genuinely unsure: splitting contributions between both account types is a legitimate way to hedge the bet, giving you some tax-free and some tax-deferred money to draw from later.
 
+The math behind the bet — $7,500, two ways
+Pre-tax dollars available to save$7,500
+Traditional IRA: contribute pre-tax, invest, grows 4x by retirement$30,000
+Roth IRA: pay 24% tax first, contribute $5,700 after-tax, grows 4x$22,800, tax-free
+Illustrative only. Assumes a hypothetical 4x growth multiple and a 24% current tax bracket. Actual returns aren't guaranteed and depend on your investments, timeline, and tax situation.
+
+Table: which account wins depends on your future tax bracket
+
+Tax bracket at withdrawalTraditional IRA, after-taxRoth IRA, after-taxWhich wins
+
+18% (lower than today's 24%)$24,600$22,800Traditional
+22% (slightly lower)$23,400$22,800Traditional, narrowly
+24% (same as today)$22,800$22,800Tie
+28% (higher than today)$21,600$22,800Roth
+
 ## The other differences worth knowing
 
 Roth IRAs have no required minimum distributions during the original owner's lifetime — the money can stay invested indefinitely if you don't need it. Traditional IRAs require you to start taking distributions at a set age, whether you need the income or not, and those distributions are taxed.
@@ -1704,6 +1830,12 @@ Tax-efficient giving is a related lever worth understanding alongside retirement
 Don't let the debate paralyze the decision. Contributing consistently to either account beats an optimized allocation you never actually fund. If you're unsure which is right for your situation, running your specific numbers — current tax bracket, expected retirement income, years until you'll need the money — with a tax professional will do more for your outcome than any general rule of thumb, including this one.
 
 This article is for informational purposes only and does not constitute tax or financial advice. Contribution limits and income thresholds are set annually by the IRS and are subject to change; verify current figures at irs.gov before making contribution decisions.
+
+Sources:
+
+- IRS, "401(k) limit increases to $24,500 for 2026, IRA limit increases to $7,500"
+
+- IRS Notice 2025-67, 2026 retirement plan cost-of-living adjustments
 
 Go deeper:
 
@@ -1771,6 +1903,14 @@ Next in this series: the investment and crypto-specific scams built to look like
 
 This article is for informational purposes only and does not constitute legal or financial advice. If you believe you have been the victim of fraud, contact your financial institution and local law enforcement, and report the incident to the FTC at ReportFraud.ftc.gov.
 
+Sources:
+
+- FTC, press release on 2025 imposter scam losses
+
+- FTC, "Protecting Older Consumers" report, 2024-2025
+
+- FTC Consumer Advice, "How To Recognize and Avoid Phishing Scams"
+
 Go deeper:
 
 - The Scam Series, Part 2: When the Voice on the Phone Is a Perfect Fake
@@ -1832,6 +1972,8 @@ Next in this series: the investment and crypto-specific scams built to look like
 This article is for informational purposes only and does not constitute legal or financial advice. If you believe you or a family member has been targeted by a scam, contact your financial institution and local law enforcement, and report the incident to the FTC at ReportFraud.ftc.gov.
 
 Sources:
+
+- FBI Internet Crime Complaint Center (IC3), 2025 Internet Crime Report
 
 - AARP, summary of the FBI's 2025 Internet Crime Report
 
@@ -2069,6 +2211,12 @@ Long-term capital gains — on assets held more than a year — are taxed at 0%,
 
 - Married filing jointly: 0% up to $98,900; 15% from $98,901 to $613,700; 20% above $613,700.
 
+What a $5,000 harvested loss is actually worth
+Offsetting a $5,000 gain taxed at 15%$750 saved
+Offsetting a $5,000 gain taxed at 20% (top bracket)$1,000 saved
+No gains to offset — applied to the $3,000 ordinary-income cap insteadUp to $3,000 of income shielded; the rest carries forward
+Illustrative only. Actual tax savings depend on your total taxable income, filing status, state taxes, and which capital-gains bracket the offsetting gain falls into.
+
 Harvesting a loss that offsets a gain which would otherwise have been taxed at 15% or 20% is a meaningfully different outcome than harvesting a loss purely to capture the $3,000 ordinary-income offset — both are legitimate, but the size of the benefit depends entirely on what the loss is actually being matched against.
 
 ## The honest limits of this strategy
@@ -2080,6 +2228,8 @@ This article is for informational purposes only and does not constitute tax or i
 Sources:
 
 - IRS, Topic No. 409: Capital Gains and Losses
+
+- IRS, Publication 550: Investment Income and Expenses (wash-sale rule)
 
 - Kiplinger, "IRS Updates Capital Gains Tax Thresholds for 2026"
 
@@ -2153,6 +2303,17 @@ Our Trusts 101 piece covered the basic revocable-versus-irrevocable decision. It
 
 - Privacy and flexibility. How easily an outdated trust can be modified (decanting), whether court records are sealed, and whether the state allows a family to run its own unregulated private trust company.
 
+Table: six jurisdictions, at a glance
+
+JurisdictionState income tax on trust incomeDynasty trust durationDistinctive feature
+
+NevadaNoneUp to 365 yearsShortest asset-protection statute of limitations (~2 years)
+South DakotaNonePerpetual, no limitTrust-related court records are automatically sealed
+WyomingNoneNo limitAllows a family-run, unregulated private trust company
+DelawareNot the jurisdiction's main drawNot the focusCourt of Chancery: 200+ years of specialized trust and business case law
+AlaskaNoneNo limitFirst state to authorize domestic asset-protection trusts (1990s)
+MontanaOnly when distributed to Montana residents~90 years ("lives in being + 21 years")Real asset-protection statute, but no dynasty-length duration
+
 ## Nevada: the asset-protection leader
 
 Nevada charges no state income tax on trust income, and its trusts can run for 365 years — not literally forever, but close enough for any realistic planning horizon. Its standout feature is a creditor statute of limitations of roughly two years from when assets are transferred into the trust, among the shortest in the country. Once that window closes, a properly funded Nevada asset-protection trust is very difficult for a future creditor to reach.
@@ -2203,6 +2364,8 @@ Sources:
 
 - Ashworth Law, "Does Nevada Have State Income Tax on Trusts?"
 
+- Nevada Legislature, Nevada Revised Statutes Chapter 166 (Spendthrift Trusts)
+
 - Tanko Law, "A Guide to the Montana Uniform Trust Code"
 
 Go deeper:
@@ -2237,6 +2400,16 @@ An irrevocable trust asks for something a revocable trust doesn't: you permanent
 
 For 2026, the federal estate tax exemption is $15 million per individual, $30 million per married couple — permanently, under the 2025 federal tax law that locked this threshold in. That's up from $13.99 million in 2025. The overwhelming majority of American families will never owe a dollar of federal estate tax, which means the estate-tax-avoidance case for an irrevocable trust applies to a much smaller slice of readers than trust marketing tends to suggest.
 
+Table: revocable vs. irrevocable, side by side
+
+FeatureRevocable trustIrrevocable trust
+
+Control during your lifetimeFull — you can amend or unwind it anytimeGiven up permanently, generally with beneficiary consent required to change it
+Part of your taxable estate?YesGenerally no
+Protection from creditors or lawsuitsNoneReal protection, if properly structured
+Avoids probateYes, if properly fundedYes, if properly funded
+Who it's generally built forMost middle- and upper-middle-class familiesLarger estates, or genuine asset-protection needs
+
 ## So why do most people actually want a trust?
 
 If federal estate tax isn't the driving concern for most families, the real reasons a trust is still worth having are more mundane and, for most people, more valuable: avoiding probate — the court-supervised process of settling an estate, which can take months and comes with its own fees; keeping your financial affairs private, since probate is a public court record and a properly funded trust generally isn't; and planning for incapacity, since a successor trustee can step in and manage your assets immediately if you become unable to, without a court needing to appoint a guardian first.
@@ -2264,6 +2437,8 @@ Sources:
 - Fidelity, "Revocable and irrevocable trusts"
 
 - Nolo, "Revocable Living Trust: How It Works and Avoids Probate"
+
+- IRS, "What's New — Estate and Gift Tax"
 
 - Kiplinger, "The Estate Tax Exemption Amount for 2026"
 
@@ -2316,6 +2491,8 @@ This article is for informational purposes only and does not constitute tax or f
 Sources:
 
 - Savingforcollege.com, "What is a UGMA and UTMA Account?"
+
+- Federal Student Aid (studentaid.gov), "The Financials Section" (how custodial assets count on the FAFSA)
 
 Go deeper:
 
